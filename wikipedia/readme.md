@@ -12,7 +12,7 @@
 
 安装jave SE。
 
-下载腾讯的中文词向量模型。
+下载腾讯的中文词向量模型[百度网盘](https://pan.baidu.com/s/1EeUqGUlm24ilkpG82utqEQ?pwd=KG44)[百度网盘](https://pan.baidu.com/s/1EeUqGUlm24ilkpG82utqEQ?pwd=KG44)。
 
 下载opencc等python包需要的文件。
 
