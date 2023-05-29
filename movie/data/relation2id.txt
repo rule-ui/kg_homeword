@@ -1,0 +1,6 @@
+of_type	0
+title_by	1
+released_in	2
+directed_by	3
+made_in	4
+starring	5
