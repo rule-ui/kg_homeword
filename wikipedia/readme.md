@@ -12,7 +12,7 @@
 
 安装jave SE。
 
-下载腾讯的中文词向量模型[百度网盘](https://pan.baidu.com/s/1ftR2iroMSBz0YVL88Nwu8A?pwd=KG44)[百度网盘](https://pan.baidu.com/s/1EeUqGUlm24ilkpG82utqEQ?pwd=KG44)。
+下载腾讯的中文词向量模型[原始模型](https://pan.baidu.com/s/1ftR2iroMSBz0YVL88Nwu8A?pwd=KG44)[处理后的模型](https://pan.baidu.com/s/1pEjQBeBO0nQxC99Dxrv-Xg?pwd=KG44)。如果想直接运行chatbot.py，可以仅下载处理好的模型。
 
 下载opencc等python包需要的文件。
 
